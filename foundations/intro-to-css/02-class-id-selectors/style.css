@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: #ffb6c1;
+    font-family: Verdana,"DejaVu Sans",sans-serif,;
+
+    }
+#ntwo{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+    }
+.ft{
+    font-size: 24px;
+    }
+#nfour{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+    }    
